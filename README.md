@@ -17,10 +17,6 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 - [Chilean Culture Book Design](https://work.elmikewalsh.com/chilean-culture-book-design/)
 <!-- PORTFOLIO:END -->
 
-- **Spanish Translation For Publii CMS**: https://work.elmikewalsh.com/publii-cms-spanish-translation/
-- **Minimalist Site For Chilean Professor**: https://work.elmikewalsh.com/minimalist-site-for-chilean-professor/
-- **Fast & Minimalist Personal Site**: https://work.elmikewalsh.com/fast-and-minimalist-personal-site/
-- **Chilean Culture eBook**: https://work.elmikewalsh.com/ebook-for-a-chilean-culture-and-heritage-project/
 
 You can see more of my recent project here: https://work.elmikewalsh.com/tag/delightful-digital-designs/
 
