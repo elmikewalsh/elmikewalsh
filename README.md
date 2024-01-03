@@ -9,6 +9,8 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 
 
 ### **Want to see some of my latest projects?:**
+<!-- PORTFOLIO:START -->
+<!-- PORTFOLIO:END -->
 
 - **Spanish Translation For Publii CMS**: https://work.elmikewalsh.com/publii-cms-spanish-translation/
 - **Minimalist Site For Chilean Professor**: https://work.elmikewalsh.com/minimalist-site-for-chilean-professor/
