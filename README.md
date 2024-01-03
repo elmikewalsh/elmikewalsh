@@ -17,6 +17,10 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 
 You can see more of my recent project here: https://work.elmikewalsh.com/tag/delightful-digital-designs/
 
+### **Latest Blog Posts:**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### **Follow Me Here:**
 
 - **GitHub**: https://github.com/elmikewalsh
