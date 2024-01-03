@@ -10,6 +10,11 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 
 ### **Want to see some of my latest projects?:**
 <!-- PORTFOLIO:START -->
+- [Publii CMS: Spanish Translation](https://work.elmikewalsh.com/publii-cms-spanish-translation/)
+- [Print Labels For A Hot Sauce Line](https://work.elmikewalsh.com/print-labels-for-a-hot-sauce-line/)
+- [Fast &amp; Minimalist Personal Site](https://work.elmikewalsh.com/fast-and-minimalist-personal-site/)
+- [Chilean Culture &amp; Heritage Website](https://work.elmikewalsh.com/chilean-culture-and-heritage-website/)
+- [Chilean Culture Book Design](https://work.elmikewalsh.com/chilean-culture-book-design/)
 <!-- PORTFOLIO:END -->
 
 - **Spanish Translation For Publii CMS**: https://work.elmikewalsh.com/publii-cms-spanish-translation/
