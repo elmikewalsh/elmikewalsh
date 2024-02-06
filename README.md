@@ -18,7 +18,7 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 <!-- PORTFOLIO:END -->
 
 
-You can see more of my recent project here: https://work.elmikewalsh.com/tag/delightful-digital-designs/
+You can see more of my recent projects here: https://folio.elmike.me/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
