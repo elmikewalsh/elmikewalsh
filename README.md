@@ -22,11 +22,11 @@ You can see more of my recent project here: https://work.elmikewalsh.com/tag/del
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Enough](https://www.elmikewalsh.com/enough/)
-- [Simply Seasonal](https://www.elmikewalsh.com/simply-seasonal/)
-- [4 Ways To Fuck Up A Simple Yes / No Question](https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/)
-- [Everything Is For Sale &lpar;Dignity Not Included&rpar;](https://www.elmikewalsh.com/everything-is-for-sale-dignity-not-included/)
-- [Defending Your Cybercastle: Digital Art of War](https://www.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/)
+- [I Lost My Password, Can I Have Yours?](https://www.elmike.me/i-lost-my-password-can-i-have-yours/)
+- [The Naming Game](https://www.elmike.me/the-naming-game/)
+- [Enough](https://www.elmike.me/enough/)
+- [Simply Seasonal](https://www.elmike.me/simply-seasonal/)
+- [4 Ways To Fuck Up A Simple Yes / No Question](https://www.elmike.me/4-ways-to-fuck-up-a-simple-yesno-question/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
