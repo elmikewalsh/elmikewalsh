@@ -22,7 +22,7 @@ You can see more of my recent projects here: https://folio.elmike.me/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
-- [I Lost My Password, Can I Have Yours?](https://www.elmike.me/i-lost-my-password-can-i-have-yours/)
+- [The Art of a Good Password](https://www.elmike.me/the-art-of-a-good-password/)
 - [The Naming Game](https://www.elmike.me/the-naming-game/)
 - [Enough](https://www.elmike.me/enough/)
 - [Simply Seasonal](https://www.elmike.me/simply-seasonal/)
