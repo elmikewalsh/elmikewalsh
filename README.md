@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://folio.elmike.me/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [$200,000 Building Homes With GPT Hammer](https://www.elmike.me/200000-building-homes-with-gpt-hammer/)
 - [The Art of a Good Password](https://www.elmike.me/the-art-of-a-good-password/)
 - [The Naming Game](https://www.elmike.me/the-naming-game/)
 - [Enough](https://www.elmike.me/enough/)
 - [Simply Seasonal](https://www.elmike.me/simply-seasonal/)
-- [4 Ways To Fuck Up A Simple Yes / No Question](https://www.elmike.me/4-ways-to-fuck-up-a-simple-yesno-question/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
