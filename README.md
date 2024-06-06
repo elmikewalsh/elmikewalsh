@@ -10,11 +10,11 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 
 ### **Want to see some of my latest projects?:**
 <!-- PORTFOLIO:START -->
-- [Publii CMS: Spanish Translation](https://folio.elmike.me/publii-cms-spanish-translation/)
-- [Minimalist Site For Chilean Professor](https://folio.elmike.me/minimalist-site-for-chilean-professor/)
-- [Fast &amp; Minimalist Personal Site](https://folio.elmike.me/fast-and-minimalist-personal-site/)
-- [Gastronomy Course eBook](https://folio.elmike.me/ebook-for-a-university-gastronomy-course/)
-- [Print Labels For A Hot Sauce Line](https://folio.elmike.me/print-labels-for-a-hot-sauce-line/)
+- [Publii CMS: Spanish Translation](https://dev.elmikewalsh.com/en/publii-cms-spanish-translation/)
+- [Minimalist Site For Chilean Professor](https://dev.elmikewalsh.com/en/minimalist-site-for-chilean-professor/)
+- [Fast &amp; Minimalist Personal Site](https://dev.elmikewalsh.com/en/fast-and-minimalist-personal-site/)
+- [Gastronomy Course eBook](https://dev.elmikewalsh.com/en/ebook-for-a-university-gastronomy-course/)
+- [Print Labels For A Hot Sauce Line](https://dev.elmikewalsh.com/en/print-labels-for-a-hot-sauce-line/)
 <!-- PORTFOLIO:END -->
 
 
