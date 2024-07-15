@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Bitwarden: Keys to your Digital Kingdom](https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/)
+- [The Digital Black Death](https://www.elmikewalsh.com/the-digital-black-death/)
+- [Squarespace Sucks](https://www.elmikewalsh.com/squarespace-sucks/)
+- [The Perplexing Art of Copywrong](https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/)
 - [$200,000 Building Homes With GPT Hammer](https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/)
-- [The Art of a Good Password](https://www.elmikewalsh.com/the-art-of-a-good-password/)
-- [The Naming Game](https://www.elmikewalsh.com/the-naming-game/)
-- [Enough](https://www.elmikewalsh.com/enough/)
-- [Simply Seasonal](https://www.elmikewalsh.com/simply-seasonal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
