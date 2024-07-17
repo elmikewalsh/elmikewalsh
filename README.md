@@ -23,7 +23,7 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
 - [WordPress 2024: Still My Favorite Static Site Generator](https://www.elmikewalsh.com/wordpress-2024-static-website-generator/)
-- [Bitwarden: Keys to your Digital Kingdom](https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/)
+- [Using Bitwarden: Keys to your Digital Kingdom](https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/)
 - [Squarespace Sucks](https://www.elmikewalsh.com/squarespace-sucks/)
 - [The Perplexing Art of Copywrong](https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/)
 - [$200,000 Building Homes With GPT Hammer](https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/)
