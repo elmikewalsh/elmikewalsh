@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [14 Days In No-Internet Hell](https://www.elmikewalsh.com/14-days-in-no-internet-hell/)
 - [Become a Millionaire on Medium &lpar;How I Made $0.04 In One Month!&rpar;](https://www.elmikewalsh.com/becom-a-millionaire-on-medium-how-i-made-004-in-one-month/)
 - [Choosing A New iPhone 16 Without Going Crazy](https://www.elmikewalsh.com/choosing-a-new-iphone-16-without-going-crazy/)
 - [WordPress 2024: Still My Favorite Static Site Generator](https://www.elmikewalsh.com/wordpress-2024-static-website-generator/)
 - [Using Bitwarden: Keys to your Digital Kingdom](https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/)
-- [Squarespace Sucks](https://www.elmikewalsh.com/squarespace-sucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
