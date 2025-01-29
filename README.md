@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Bariloche: From Top to Bottom](https://www.elmikewalsh.com/bariloche-from-top-to-bottom/)
 - [Fuck You, Microsoft](https://www.elmikewalsh.com/fuck-you-microsoft/)
 - [Email Services: A Rant](https://www.elmikewalsh.com/email-services-a-rant/)
 - [A Picture Is Worth 1000 Words](https://www.elmikewalsh.com/a-picture-is-worth-1000-words/)
 - [More Typing, Less Thinking](https://www.elmikewalsh.com/more-typing-less-thinking/)
-- [14 Days In No-Internet Hell](https://www.elmikewalsh.com/14-days-in-no-internet-hell/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
