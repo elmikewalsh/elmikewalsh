@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Quick Update On The Website](https://www.elmikewalsh.com/publii-cms-website-multilanguage/)
 - [Your Email - It’s Not &quot;Swiss Safe&quot;](https://www.elmikewalsh.com/your-email-its-not-swiss-safe/)
 - [Bariloche: From Top to Bottom](https://www.elmikewalsh.com/bariloche-from-top-to-bottom/)
 - [Fuck You, Microsoft](https://www.elmikewalsh.com/fuck-you-microsoft/)
 - [Email Services: A Rant](https://www.elmikewalsh.com/email-services-a-rant/)
-- [A Picture Is Worth 1000 Words](https://www.elmikewalsh.com/a-picture-is-worth-1000-words/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
