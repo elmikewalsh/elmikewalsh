@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://www.elmikewalsh.com/feed"
+          feed_list: "https://www.elmikewalsh.com/feed.xml"
