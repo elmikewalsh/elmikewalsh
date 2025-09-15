@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Get Your Language Outta My Face](https://www.elmikewalsh.com/get-your-language-outta-my-face/)
 - [Doin&#39; It Doggy Style: Chilean Animal Slang](https://www.elmikewalsh.com/doin-it-doggy-style-chilean-animal-slang/)
 - [Email Providers: The Final Dance &lpar;One Can Hope&rpar;](https://www.elmikewalsh.com/email-providers-the-final-dance-one-can-hope/)
 - [How To Choose An Email Service Without Going Insane](https://www.elmikewalsh.com/how-to-choose-an-email-service-without-going-insane/)
 - [Quick Update On The Website](https://www.elmikewalsh.com/publii-cms-website-multilanguage/)
-- [Your Email - It’s Not &quot;Swiss Safe&quot;](https://www.elmikewalsh.com/your-email-its-not-swiss-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
