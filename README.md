@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Tool Obsession](https://www.elmikewalsh.com/tool-obsession/)
+- [The Perfect Carrot](https://www.elmikewalsh.com/one-perfect-carrot/)
 - [Email &amp; Encryption](https://www.elmikewalsh.com/email-and-encryption/)
 - [Mac to the Big Apple](https://www.elmikewalsh.com/mac-to-the-big-apple/)
 - [Get Your Language Outta My Face](https://www.elmikewalsh.com/get-your-language-outta-my-face/)
-- [Doin&#39; It Doggy Style: Chilean Animal Slang](https://www.elmikewalsh.com/doin-it-doggy-style-chilean-animal-slang/)
-- [Email Providers: The Final Dance &lpar;One Can Hope&rpar;](https://www.elmikewalsh.com/email-providers-the-final-dance-one-can-hope/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
