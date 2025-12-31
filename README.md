@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://dev.elmikewalsh.com/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [A Trip to Buenos Aires](https://www.michaelwalsh.cl/a-trip-to-buenos-aires/)
 - [Tool Obsession](https://www.michaelwalsh.cl/tool-obsession/)
 - [The Perfect Carrot](https://www.michaelwalsh.cl/one-perfect-carrot/)
 - [Email &amp; Encryption](https://www.michaelwalsh.cl/email-and-encryption/)
 - [Mac to the Big Apple](https://www.michaelwalsh.cl/mac-to-the-big-apple/)
-- [Get Your Language Outta My Face](https://www.michaelwalsh.cl/get-your-language-outta-my-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
