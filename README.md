@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://walsh.soy/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Personal Website Redesign](https://walsh.soy/personal-website-redesign/)
 - [A Trip to Buenos Aires](https://walsh.soy/a-trip-to-buenos-aires/)
 - [Tool Obsession](https://walsh.soy/tool-obsession/)
 - [The Perfect Carrot](https://walsh.soy/one-perfect-carrot/)
 - [Email &amp; Encryption](https://walsh.soy/email-and-encryption/)
+- [Mac to the Big Apple](https://walsh.soy/mac-to-the-big-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
