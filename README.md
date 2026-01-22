@@ -1,4 +1,4 @@
-# Hi, I'm elmikewalsh (Mike Walsh)
+# Hi, I'm elmikewalsh (Michael Walsh)
 
 
 
@@ -18,7 +18,7 @@ Hello! My name is Mike, and I'm currently family-ing, designing, coding & transl
 <!-- PORTFOLIO:END -->
 
 
-You can see more of my recent projects here: https://dev.elmikewalsh.com/
+You can see more of my recent projects here: https://walsh.soy/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
