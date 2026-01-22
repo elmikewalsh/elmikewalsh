@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "PORTFOLIO"
-          feed_list: "https://www.elmikewalsh.com/articles/dev/"
+          feed_list: "https://walsh.soy/es/mi-portafolio/"
